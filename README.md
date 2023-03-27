@@ -24,7 +24,8 @@ O código também possui lógica para lidar com requisições POST, atualizando 
 ├── index-admin-page.php
 └── wp-index-url.php
 ```
-3. Faça o upload para dentro da pasta do WordPress `wp-content/plugins`.
+3. Faça o upload do [arquivo wp-index.zip](https://github.com/italomsr/wp-index/files/11081721/wp-index.zip)
+ para dentro da pasta do WordPress `wp-content/plugins`.
 4. Crie o JSON da API, siga os [passos aqui](https://developers.google.com/search/apis/indexing-api/v3/quickstart?hl=pt-br#get-started). 
 5. Ative o plugin e insira **Chave API JSON**.
 
