@@ -27,3 +27,10 @@ O código também possui lógica para lidar com requisições POST, atualizando 
 3. Faça o upload para dentro da pasta do WordPress `wp-content/plugins`.
 4. Crie o JSON da API, siga os [passos aqui](https://developers.google.com/search/apis/indexing-api/v3/quickstart?hl=pt-br#get-started). 
 5. Ative o plugin e insira **Chave API JSON**.
+
+# Telas:
+![URLs](https://user-images.githubusercontent.com/84940616/228016050-5e8301b7-cc4a-4a05-b02f-ea8c95e27f45.png)
+![Chave-API](https://user-images.githubusercontent.com/84940616/228016493-9b235ce0-0383-4d6b-84be-d4f96918bb5c.png)
+![posts-recentes](https://user-images.githubusercontent.com/84940616/228016089-21ab335d-6256-4c55-b615-3f8eeaa3103e.png)
+![erros](https://user-images.githubusercontent.com/84940616/228016101-205fe302-1b52-410e-bd06-8f2d09859821.png)
+
